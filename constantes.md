@@ -1,8 +1,8 @@
 # Constantes
 
-> Chamamos de constante todo valor fixo que não será alterado durante a execução de um programa.
+> Chamamos de **constante todo valor fixo que não será alterado durante a execução de um programa.**
 
-As constantes podem ser classificadas como: 
+Constantes podem ser classificados como: 
 
 * [Numéricos](numericos.md)
 * [Literais](literais.md)
